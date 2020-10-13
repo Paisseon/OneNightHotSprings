@@ -1,0 +1,22 @@
+CREDITS:
+
+story/code/art: npckc (https://npckc.site)
+music: maxdotine (https://max-ine.bandcamp.com)
+       npckc (https://npckc.bandcamp.com)
+sfx: pocket sound (https://pocket-se.info/)
+engine: ren'py (https://www.renpy.org/)
+
+translations:
+j8chi (esla)
+kyleheren (ko)
+07thascension (ru)
+minhvipkk (vi)
+melanie asuna​ (de)
+han eun seom (pt)
+erlangga (id)
+eiya (zh)
+digenis (el)
+chrysalide (fr)
+choijongg (es)
+gosi syryjczyk (pl)
+saki (zhs)
